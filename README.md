@@ -1,6 +1,11 @@
 # On14-TodasEmTech-s1-VC
 Turma Online 14 - Todas em Tech | Back-end | 2021 | Versionamento de Códigos
 
+### Instalação do Git Bash
+Para Linux/Unix: https://git-scm.com/download/linux
+Para Mac: https://git-scm.com/download/mac
+Para Windows: https://git-scm.com/download/win
+
 ## Linha de comando - básico
 Interfaces que interpretam linhas de comando, consoles:
 - Command Prompt / cmd -> interpretador padrão do windows, simples e funcional
@@ -43,6 +48,7 @@ Duas formas pra criar e editar um txt pela linha:
 
 ### Ferramentas de Versionamento
 Existem algumas plataformas onde podemos compartilhar/versionar códigos. Exemplos:
+
 
 
 ## Comandos do git
