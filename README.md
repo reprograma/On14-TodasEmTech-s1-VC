@@ -1,6 +1,19 @@
 # On14-TodasEmTech-s1-VC
 Turma Online 14 - Todas em Tech | Back-end | 2021 | Versionamento de Códigos
 
+## Exercício para semana
+- Faça um clone no seu pc -> https://github.com/reprograma/On14-
+TodasEmTech-s1-VC.git
+- Entrar na pasta do clone
+- Cria uma branch com seu nome
+- Crie um arquivo com seu nome e escreva uma música, um lugar e um livro
+ou disco favorito seu
+- Adicione esse arquivo ao olhar do git
+- Faça um commit
+- Faça um git push para  repositório
+- No seu repositório no GitHub faça um Pull Request, ou seja
+envie a sua branch para a branch do repositório original
+
 ### Instalação do Git Bash
 Para Linux/Unix: https://git-scm.com/download/linux
 Para Mac: https://git-scm.com/download/mac
