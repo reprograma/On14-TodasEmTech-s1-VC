@@ -14,6 +14,8 @@ ou disco favorito seu
 - No seu repositório no GitHub faça um Pull Request, ou seja
 envie a sua branch para a branch do repositório original
 
+Dontpad da aula: http://dontpad.com/On-14-VersionamentoDeCodigo
+
 ### Instalação do Git Bash
 Para Linux/Unix: https://git-scm.com/download/linux
 Para Mac: https://git-scm.com/download/mac
