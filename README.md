@@ -13,6 +13,8 @@ ou disco favorito seu
 - Faça um git push para  repositório
 - No seu repositório no GitHub faça um Pull Request, ou seja
 envie a sua branch para a branch do repositório original
+AVISOS - NÃO DEEM MERGE REQUEST!!! isso seria a última coisa, já depois do pull request aqui no GitHub, não façam, por favor
+Nos slides a partir do slide 15 é o exercício e como fazer o Pull Request.
 
 Dontpad da aula: http://dontpad.com/On-14-VersionamentoDeCodigo
 
