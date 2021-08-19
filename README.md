@@ -14,6 +14,7 @@ AVISOS - NÃO DEEM MERGE REQUEST!!! isso seria a última coisa, já depois do pu
 Nos slides a partir do slide 15 é o exercício e como fazer o Pull Request.
 
 Dontpad da aula: http://dontpad.com/On-14-VersionamentoDeCodigo
+Documentação recomendada: https://www.atlassian.com/br/git
 
 ### Instalação do Git Bash
 Para Linux/Unix: https://git-scm.com/download/linux
