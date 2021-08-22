@@ -1,6 +1,3 @@
-# On14-TodasEmTech-s1-VC
-Turma Online 14 - Todas em Tech | Back-end | 2021 | Versionamento de Códigos
-
 ## Exercício para semana
 - Faça um clone no seu pc -> https://github.com/reprograma/On14-TodasEmTech-s1-VC.git
 - Entre na pasta do clone
@@ -88,3 +85,4 @@ Branches:
 - git config --list -> lista as usuárias no computador
 - git config --global --unset user.name "Nome" -> retira o nome de uma usuária
 - git config --global --unset user.email “nome@email.com” -> retira o email de uma usuária
+
